@@ -1,14 +1,5 @@
 # P4CKET
 
-```
-██████╗ ██╗██████╗ ███████╗██████╗  ██████╗ ██████╗ ██╗   ██╗
-██╔══██╗██║██╔══██╗██╔════╝██╔══██╗██╔═══██╗██╔══██╗██║   ██║
-██████╔╝██║██████╔╝█████╗  ██████╔╝██║   ██║██████╔╝██║   ██║
-██╔═══╝ ██║██╔═══╝ ██╔══╝  ██╔══██╗██║   ██║██╔══██╗██║   ██║
-██║     ██║██║     ███████╗██║  ██║╚██████╔╝██║  ██║╚██████╔╝
-╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-```
-
 **P4CKET** (Packet), PCAP ve PCAPNG dosyalarini analiz eden, ağ trafiğindeki şüpheli davranışları tespit eden ve tüm analiz sonuçlarini tek bir masaüstü arayüzünde gösteren profesyonel bir savunma amaçlı siber güvenlik aracidir.
 
 ## Ozellikler
