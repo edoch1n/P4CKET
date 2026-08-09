@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""P4CKET - PCAP Ag Trafigi Analiz ve Tehdit Tespit Sistemi.
-
-Kullanim:
-    python main.py
-"""
-
 import sys
 
 from PySide6.QtWidgets import QApplication
