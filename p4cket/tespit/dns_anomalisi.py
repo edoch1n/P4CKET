@@ -1,5 +1,3 @@
-"""DNS anomali tespit motoru."""
-
 import logging
 import math
 from collections import defaultdict
