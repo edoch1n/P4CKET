@@ -1,5 +1,3 @@
-"""Risk puanlama sistemi."""
-
 from p4cket.modeller import TehditSeviyesi
 from p4cket.yardimci.sabitler import PuanlamaSabitleri
 
