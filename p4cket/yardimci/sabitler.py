@@ -1,5 +1,3 @@
-"""Uygulama genelinde sabit tanımları."""
-
 from dataclasses import dataclass
 
 
