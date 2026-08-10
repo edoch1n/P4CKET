@@ -1,5 +1,3 @@
-"""UDP trafik anomalisi tespit motoru."""
-
 import logging
 from collections import defaultdict
 from typing import Optional
