@@ -1,5 +1,3 @@
-"""PySide6 arayuz teması ve stil tanımları."""
-
 from PySide6.QtWidgets import QApplication
 from PySide6.QtGui import QPalette, QColor
 from PySide6.QtCore import Qt
