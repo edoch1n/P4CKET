@@ -1,5 +1,3 @@
-"""Periyodik iletisim tespit motoru."""
-
 import logging
 import statistics
 from collections import defaultdict
