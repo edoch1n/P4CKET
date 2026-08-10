@@ -1,5 +1,3 @@
-"""Arayuz tablo bileşenleri."""
-
 from PySide6.QtWidgets import QTableWidget, QTableWidgetItem, QHeaderView
 from PySide6.QtGui import QColor
 from PySide6.QtCore import Qt
