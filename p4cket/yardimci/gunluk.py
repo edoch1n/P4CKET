@@ -1,5 +1,3 @@
-"""Uygulama günlükleme (logging) yapılandırması."""
-
 import logging
 import sys
 
