@@ -1,5 +1,3 @@
-"""Metin (TXT) rapor uretici."""
-
 from datetime import datetime
 from typing import Optional
 
