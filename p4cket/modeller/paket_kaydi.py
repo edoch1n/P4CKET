@@ -1,5 +1,3 @@
-"""Paket kaydi modeli."""
-
 from dataclasses import dataclass
 from typing import Optional
 
