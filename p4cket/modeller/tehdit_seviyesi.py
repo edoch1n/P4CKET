@@ -1,5 +1,3 @@
-"""Tehdit seviyesi enum."""
-
 from enum import Enum
 
 
