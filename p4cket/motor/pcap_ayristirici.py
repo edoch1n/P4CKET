@@ -1,5 +1,3 @@
-"""PCAP ayrıştırıcı - Scapy ile offline PCAP okuma."""
-
 import logging
 import sys
 from contextlib import redirect_stderr
